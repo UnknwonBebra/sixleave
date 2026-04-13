@@ -29,7 +29,7 @@
 
 ## 📥 Установка
 
-1. Перейдите в раздел **[Releases](https://github.com)** и скачайте актуальный `.jar` файл.
+1. Перейдите в раздел **[Releases]([https://github.com](https://github.com/UnknwonBebra/sixleave/releases/tag/Plugin))** и скачайте актуальный `.jar` файл.
 2. Поместите файл в папку `/plugins/` вашего сервера.
 3. Запустите или перезагрузите сервер.
 4. Настройте параметры в `config.yml` (папка появится после первого запуска).
@@ -41,10 +41,9 @@
 
 | Команда | Описание | Право (Permission) |
 | :--- | :--- | :--- |
-| `/leaver give` | Выдать предмет ливалки | `leaver.admin` |
-| `/leaver reload` | Перезагрузить конфиг | `leaver.admin` |
+| `/sixleave give` | Выдать предмет ливалки | `SixLeave.*` |
 
 ---
 
-> **Разработчик:** [UnknwonBebra](https://github.com)  
+> **Разработчик:** [UnknwonBebra]([https://github.com](https://github.com/UnknwonBebra))  
 > *Если вам понравился плагин, поставьте ⭐ этому репозиторию!*
